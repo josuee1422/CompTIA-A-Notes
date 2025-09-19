@@ -1,3 +1,5 @@
 # CompTIA-A-Notes
-CompTIA A+ notes, labs, and troubleshooting write-ups to showcase technical growth.
-System Memory
+
+This repo contains my notes, labs, and troubleshooting write-ups while preparing for the CompTIA A+ certification.
+
+## Contents
