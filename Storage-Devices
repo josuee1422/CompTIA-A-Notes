@@ -1,0 +1,28 @@
+# Storage Devices (CompTIA A+ Notes)
+
+## Hard Disk Drives (HDD)
+- Uses spinning magnetic platters.
+- Higher storage capacity at lower cost.
+- Slower performance compared to SSDs.
+- More prone to mechanical failure.
+
+## Solid State Drives (SSD)
+- No moving parts, uses flash memory.
+- Much faster read/write speeds.
+- More expensive per GB than HDDs.
+- Better durability and energy efficiency.
+
+## NVMe SSD
+- Connects directly via PCIe bus.
+- Delivers the highest speeds for modern systems.
+- Ideal for gaming, servers, and high-performance tasks.
+
+## Flash Drives
+- Portable, connects via USB.
+- Useful for transferring files.
+- Not designed for long-term or heavy storage.
+
+## Optical Media
+- CD/DVD/Blu-ray, read with a laser.
+- Limited storage compared to modern drives.
+- Largely legacy, but still seen in some older systems.
